@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FileZilla3 version="3.25.2" platform="windows">
+	<Servers>
+		<Server>
+			<Host>ftp.sims.pe.hu</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>u367078296</User>
+			<Pass encoding="base64">U3VqZWV0Izk2OA==</Pass>
+			<Logontype>1</Logontype>
+			<TimezoneOffset>0</TimezoneOffset>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>0</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>sims</Name>
+			<Comments />
+			<Colour>0</Colour>
+			<LocalDir />
+			<RemoteDir />
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>sims</Server>
+	</Servers>
+</FileZilla3>
